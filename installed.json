@@ -13,10 +13,10 @@
           "version": "3.1.2",
           "deprecated": false,
           "category": "Contributed",
-          "url": "https://MCUdude.github.io/MiniCore/MiniCore-3.1.2.tar.bz2",
-          "archiveFileName": "MiniCore-3.1.2.tar.bz2",
-          "checksum": "SHA-256:2aa8523aa24eb20f8277d90480286399c67a59b05164ac3bad81716a0c6490b3",
-          "size": "3529952",
+          "url": "https://github.com/nguyenmanhthao996tn/all-new-uca21-core/archive/refs/tags/v3.1.2-uca21.tar.gz",
+          "archiveFileName": "all-new-uca21-core-3.1.2-uca21.tar.gz",
+          "checksum": "SHA-256:4BFCB76D4FE08756F23CD1C452A1484400EB2F62E825D9ABF24FFE81B9810184",
+          "size": "3987428",
           "boards": [
             {
               "name": "UCA21"
